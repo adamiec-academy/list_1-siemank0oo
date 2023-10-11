@@ -7,5 +7,3 @@ def cross(n):
         print(' ' * n + '*' * n + ' ' * n)
 
         
-cross(4)
-    pass
